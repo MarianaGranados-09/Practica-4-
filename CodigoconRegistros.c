@@ -1,3 +1,6 @@
+//Este codigo emplea la programacion con registros del sensor sharp y el sensor ultrasonico, utilizando el ADC y Timers. 
+//Toda la programacion es a nivel registros
+
 #Include <18F4550.h>
 #Include <math.h> //Usamos la libreria Math.h para usar comandos como Sqrt y Log10
 #Fuses HS, NOWDT, NOPROTECT, INTRC, NOBROWNOUT
