@@ -1,3 +1,6 @@
+//Este codigo fue hecho con registros para el sensor sharp y con programación con comandos de C para el sensor ultrasonico (Timer0)
+
+
 #Include <18F4550.h>
 #Include <math.h> //Usamos la libreria Math.h para usar comandos como Sqrt y Log10
 #Fuses HS, NOWDT, NOPROTECT, INTRC, NOBROWNOUT
